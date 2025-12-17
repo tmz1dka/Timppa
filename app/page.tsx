@@ -15,7 +15,7 @@ export default function Page() {
             </div>
           </nav>
           <div>
-            <h1>Timppa Suominen</h1>
+            <h1>Tamzid Mahamud</h1>
             <p className="subtitle">
               Third-year Computer Science student at the University of Turku. I build reliable web backends, data-heavy dashboards, and
               small developer tools with a bias for clean architecture.
