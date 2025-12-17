@@ -103,6 +103,13 @@ export default function Page() {
           <div className="card-grid">
             <div className="card">
               <h3>Project 1</h3>
+              <p>Built a quartet website with a lean online shop, wiring Stripe checkout on Next.js and storing orders in MySQL.</p>
+              <div className="pill-row">
+                <span className="pill">Next.js</span>
+                <span className="pill">Stripe</span>
+                <span className="pill">MySQL</span>
+                <span className="pill">E-commerce</span>
+              </div>
             </div>
             <div className="card">
               <h3>Project 2</h3>
