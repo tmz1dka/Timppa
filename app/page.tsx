@@ -31,7 +31,7 @@ export default function Page() {
               </div>
               <div className="meta-card">
                 <span>Location</span>
-                <strong>Turku, Finland · open to remote</strong>
+                <strong>Helsinki, Turku, Finland · open to remote</strong>
               </div>
             </div>
           </div>
@@ -155,16 +155,16 @@ export default function Page() {
               <div className="code-block">
                 <div>// drop me a line</div>
                 <div>{"{"}</div>
-                <div>  email: "timppa.suominen@example.com",</div>
-                <div>  location: "Turku, FI",</div>
-                <div>  interests: ["backend", "data", "devtools"]</div>
+                <div>  email: "mahamud12sep@gmail.com",</div>
+                <div>  location: "Helsinki, Turku, FI",</div>
+                <div>  interests: ["AI & ML, RAG"]</div>
                 <div>{"}"}</div>
               </div>
             </div>
           </div>
         </section>
       </div>
-      <footer>Built with minimal JS, maximal intent.</footer>
+      <footer>Tough times never last, only tough people last</footer>
     </main>
   );
 }
